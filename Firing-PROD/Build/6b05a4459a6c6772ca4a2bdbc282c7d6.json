@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "AI_Pursue",
+"productVersion": "0.1",
+"dataUrl": "9fed39a6e9958016be4bc9acfc201064.unityweb",
+"wasmCodeUrl": "74865aafbc854a626e97e9c94ea741b9.unityweb",
+"wasmFrameworkUrl": "215d3662d3ff0f674da2eb6a3e6e9f3f.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.2f1"
+}
